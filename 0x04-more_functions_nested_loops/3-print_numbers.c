@@ -6,8 +6,8 @@
 
 void print_numbers(void)
 {
-int number = 20;
-for (number = 20; number < 30; number++)
+int number = 48;
+for (number = 48; number < 58; number++)
 {
 _putchar(number);
 }
