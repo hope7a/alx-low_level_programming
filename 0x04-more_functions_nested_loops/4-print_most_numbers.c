@@ -11,9 +11,9 @@ int number;
 for (number = 48; number < 58; number++)
 {
 if ((number == 50) || (number == 52))
-  
 {
 continue;
+  
 }
 _putchar(number);
 }
